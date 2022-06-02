@@ -21,6 +21,7 @@ const dataBelanjaan = [
 ];
 
 // boleh dimodifikasi bila ingin menggunakan deklarasi fungsi yang normal
+
 const listBelanjaan = (dataBelanjaan) => {
   arrayText = [];
   for (let i = 0; i < dataBelanjaan.length; i++) {
